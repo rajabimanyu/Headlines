@@ -17,5 +17,6 @@ public class MainActivity extends AppCompatActivity {
         Log.e("four commit",""+4);
         Log.e("five commit",""+5);
         Log.e("six commit",""+6);
+        Log.e("seven commit",""+7);
     }
 }
